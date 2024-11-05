@@ -23,11 +23,13 @@ Store the key in a .env file with the name GOOGLE_API_KEY.
 ## Text-Based Use Case
 **Run the text-based application:**
 streamlit run app.py
+
 Enter a prompt in the input box, such as "Write a poem on pandas," and click "Ask Question" to see the AI’s response.
 
 ## Image-Based Use Case
 **Run the image-based application:**
 streamlit run vision.py
+
 Upload an image file and enter a prompt, such as "Describe the image" or "Generate a blog based on the image." Gemini Pro will generate detailed descriptions and context around the image.
 
 ## Project Files
