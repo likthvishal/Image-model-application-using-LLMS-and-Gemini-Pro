@@ -32,6 +32,9 @@ Upload an image file and enter a prompt, such as "Describe the image" or "Genera
 
 ## Project Files
 **app.py:** Code for the text-based application using Streamlit.
+
 **vision.py:** Code for the image-based application using Streamlit.
+
 **.env:** File storing the Google API key for Gemini Pro.
+
 **requirements.txt:** Dependencies needed for the project.
