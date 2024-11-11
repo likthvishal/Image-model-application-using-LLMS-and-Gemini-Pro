@@ -9,10 +9,6 @@ This project leverages **Gemini Pro**, a multimodal language model, to build an 
 3. **Front-End and Back-End Integration**: The project uses **Streamlit** for the front-end and **Google Generative AI API** for back-end AI model interactions, creating a full-stack application.
 4. **Real-Time AI Responses**: Gemini Pro processes 60 queries per minute, ensuring rapid response times and enabling interactive applications.
 
-## Installation and Setup
-1. Clone this repository:
-   ```bash
-   git clone [repo URL]
 
 ## Obtain your API key from Google:
 Go to Google API Key and generate an API key.
